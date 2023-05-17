@@ -882,7 +882,7 @@
           "name": "GUID"
         },
         {
-          "default": " Europe/London",
+          "default": "Europe/London",
           "label": "TZ",
           "name": "TZ"
         },
